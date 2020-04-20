@@ -1,0 +1,17 @@
+h1 {
+  font-family: Impact;
+  text-shadow: 3px 0 0 #fff, -3px 0 0 #fff, 0 3px 0 #fff, 0 -3px 0 #fff, 2px 2px #fff, -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff;
+}
+
+.header {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlKTRRSAAoe5TmtN2thLlGLysmNKJOdb-XY15kc6eOyOu4pXpt&usqp=CAU);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 100px;
+  width: 40%;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid white;
+}
